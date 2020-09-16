@@ -1,4 +1,7 @@
 <h2>Updates</h2>
+<p>Wednesday, September 16, 2020<br/>
+Added drabbles</p>
+
 <p>Tuesday, September 8, 2020<br/>
 Added End of Earth series to stories.
 Added story "<a href="cards.php">Cards</a>."</p>
