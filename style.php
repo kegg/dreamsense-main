@@ -107,4 +107,8 @@ address p {
 div.center {
 	text-align:center;
 }
+
+dt {
+	font-size:14pt;
+}
 </style>
