@@ -2,6 +2,18 @@
 <?php $footer="footer/stories.php";?>
 <?php include("header.php");?>
 
+<h2>Truth</h2>
+
+<p>Everything becomes a realism at some point or another. No one decides what you
+  wish to believe or want to understand. That is up to you. To want to believe
+  in something takes courage. To want to understand what that belief is? Even
+  more courage. What it all takes is courage to see the truth in something no
+  matter what.</p>
+
+<p>There are times when we do not want to see the truth. We want to hide from
+  it all. Kept safe in the world we created for ourselves. That peace of mind
+  upon which we have the ability to stand.</p>
+
 <h2>The Mutant</h2>
 
 <p>Life didn't seem to matter that much. It wasn't in the cards for Mike. He wanted
