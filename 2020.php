@@ -4,6 +4,17 @@
 
 <h2>September</h2>
 
+<h3>September 19, 2020</h3>
+
+<p>After basically being on lockdown for a good solid year, you learn to appreciate
+  certain things. Like going outside without a mask. Giving a needed hug. Things
+  like that.</p>
+
+<p>Nowadays wherever you go, you have to wear a mask and stay six feet apart from
+  other people. I understand it's for health concerns and all of that. I get that.
+  It's a good measure so people don't get sick. I just wonder who thought six feet
+  was the optimal distance to stay away from another person.</p>
+
 <h3>September 8, 2020</h3>
 
 <p>It's quite windy out today. It's supposed to be windy all afternoon. I'm not
