@@ -29,4 +29,6 @@ Hello, my name is Fred I am 45 years old.
 System.out.format("Hello, my name is %s I am %d years old.", name, age);
 </pre>
 
+<p><a target="_blank" href="Variables.java">Source Code</a></p>
+
 <?php include('../footer.php');?>
