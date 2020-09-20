@@ -6,7 +6,7 @@
 Hello World
 </pre>
 
-<table style="width:100%;font-size:14pt">
+<table style="width:100%;font-size:14pt;border:1px solid #000">
   <tr>
     <th colspan="3">Basics of Java Programming</td>
   </tr>
