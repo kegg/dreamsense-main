@@ -3,8 +3,8 @@
 <?php $footer="footer/program.php";?>
 
 <pre class="bash">
-# java HelloWorld
-# Hello World
+$ java HelloWorld
+$ Hello World
 </pre>
 
 <?php include('footer.php');?>
