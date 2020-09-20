@@ -12,8 +12,8 @@ public class HelloWorld {
 </pre>
 
 <p>In order to run this program, you need to have a text editor installed. You'll
-  need to create a file and save it as <a href="HelloWorld.java">HelloWorld.java</a>
-  with the above text in it.
+  need to create a file and save it as <a target="_blank"
+  href="HelloWorld.java">HelloWorld.java</a> with the above text in it.
   You will need to compile the program in the shell using the <code>javac</code>
   command as follows:</p>
 
