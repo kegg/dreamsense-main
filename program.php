@@ -2,6 +2,9 @@
 <?php include('header.php');?>
 <?php $footer="footer/program.php";?>
 
-<pre>Hello World</pre>
+<pre class="bash">
+# java HelloWorld
+# Hello World
+</pre>
 
 <?php include('footer.php');?>

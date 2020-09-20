@@ -111,4 +111,13 @@ div.center {
 dt {
 	font-size:14pt;
 }
+
+pre {
+	padding:10px;
+}
+
+pre.bash {
+	background-color:#000;
+	color:#fff;
+}
 </style>
