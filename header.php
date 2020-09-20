@@ -17,7 +17,8 @@
 			<a href="/about.php">About</a> |
 			<a href="/stories.php">Stories</a> |
 			<a href="/blog.php">Blog</a> |
-			<a href="/poetry.php">Poetry</a></td>
+			<a href="/poetry.php">Poetry</a> |
+			<a href="/program.php">Programming</a></td>
 	</tr>
 	<tr>
 		<td class="main_content">

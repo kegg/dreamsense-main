@@ -31,6 +31,9 @@
 			<tr>
 				<td style="border-left:1px solid #000000;border-bottom:1px solid #000000;border-right:1px solid #000000;width:277px"><a href="poetry.php"><img src="images/poetry.jpg" width="277" height="150" border="0"></a></td>
 			</tr>
+			<tr>
+				<td style="border-left:1px solid #000000;border-bottom:1px solid #000000;border-right:1px solid #000000;width:277px"><a href="program.php"><img src="images/program.jpg" width="277" height="150" border="0"></a></td>
+			</tr>
 			<!--
 			<tr>
 				<td style="border-left:1px solid #000000;border-bottom:1px solid #000000;border-right:1px solid #000000;width:277px"><a href="https://mormon.dreamsense.com"><img src="images/religion.jpg" width="277" height="150" border="0"></a></td>
