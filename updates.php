@@ -1,4 +1,7 @@
 <h2>Updates</h2>
+<p>Saturday, September 19, 2020<br/>
+  Added Programming section.</p>
+
 <p>Wednesday, September 16, 2020<br/>
 Added drabbles</p>
 
