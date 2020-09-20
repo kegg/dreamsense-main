@@ -6,7 +6,7 @@
   is doing. It's meant to help clarify code. Good clean written code should be
   self explanatory and doesn't need comments.</p>
 
-<pre class="code">
+<pre class="code green">
 // I am a single line comment
 
 /*

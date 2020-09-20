@@ -130,4 +130,8 @@ code {
 	color:#0000ff;
 	font-weight:bold;
 }
+
+.green {
+	color:#006400;
+}
 </style>
