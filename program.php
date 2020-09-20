@@ -20,6 +20,11 @@ Hello World
     <td>Basics</td>
     <td><a href="/programming/variables.php">Variables</a></td>
   </tr>
+  <tr>
+    <td>2</td>
+    <td>Basics</td>
+    <td><a href="/programming/comments.php">Comments</a></td>
+  </tr>
 </table>
 
 <?php include('footer.php');?>
