@@ -125,4 +125,9 @@ pre.code {
 	border:1px solid #000099;
 	background-color:#fff;
 }
+
+code {
+	color:#0000ff;
+	font-weight:bold;
+}
 </style>
