@@ -15,6 +15,11 @@ Hello World
     <td>Basics</td>
     <td><a href="/programming/hello.php">Hello World</a></td>
   </tr>
+  <tr>
+    <td>1</td>
+    <td>Basics</td>
+    <td><a href="/programming/variables.php">Variables</a></td>
+  </tr>
 </table>
 
 <?php include('footer.php');?>
