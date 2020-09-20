@@ -13,7 +13,7 @@
 	</tr>
 </table>
 <div class="center">
-	<img src="images/ds.png"/>
+	<img src="/images/ds.png"/>
 </div>
 </body>
 </html>

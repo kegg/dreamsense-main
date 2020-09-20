@@ -120,4 +120,9 @@ pre.bash {
 	background-color:#000;
 	color:#fff;
 }
+
+pre.code {
+	border:1px solid #000099;
+	background-color:#fff;
+}
 </style>

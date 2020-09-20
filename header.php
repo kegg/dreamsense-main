@@ -7,7 +7,7 @@
 <body>
 <table cellpadding="0" cellspacing="0" width="600" align="center" class="content">
 	<tr>
-		<td class="header" background="images/logo_back.gif"><img src="images/logo.gif" width="300" height="61"></td>
+		<td class="header" background="/images/logo_back.gif"><img src="/images/logo.gif" width="300" height="61"></td>
 	</tr>
 	<tr>
 		<td class="slogan">The Future Is Behind You</td>
