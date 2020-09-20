@@ -11,6 +11,7 @@
 
 /*
 * I'm a multi-line comment.
+* Here's another line.
 */
 </pre>
 
