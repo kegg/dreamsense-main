@@ -3,8 +3,7 @@
 <?php $footer="footer/program.php";?>
 
 <pre class="bash">
-$ java HelloWorld
-$ Hello World
+Hello World
 </pre>
 
 <table style="width:100%;font-size:14pt">
