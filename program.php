@@ -7,9 +7,10 @@ Hello World
 </pre>
 
 <?php
-$id = 0;
+$id = 1;
 $basics = "Programing Basics";
 $keyboard = "Keyboard Input";
+$loops = "Loops";
 ?>
 
 <table style="width:100%;font-size:14pt;border:1px solid #000">
@@ -56,6 +57,14 @@ $keyboard = "Keyboard Input";
     <td class="right"><?php echo $id; $id++;?></td>
     <td><?php echo $keyboard;?></td>
     <td><a href="/programming/calculator.php">Silly Simple Calculator</a></td>
+  </tr>
+  <!--
+    Loops
+  -->
+  <tr>
+    <td class="right"><?php echo $id; $id++;?></td>
+    <td><?php echo $loops;?></td>
+    <td><a href="/programming/doWhile.php">Do While Loop</a></td>
   </tr>
 </table>
 
