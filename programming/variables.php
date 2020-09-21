@@ -19,7 +19,7 @@ public class Variables {
 <p>If we run this program, it outputs the following:</p>
 
 <pre class="bash">
-Hello, my name is Fred I am 45 years old.
+Hello, my name is Fred I am <code>45</code> years old.
 </pre>
 
 <p>As you can see, the string is concatinated with the variables. There's also

@@ -24,8 +24,8 @@ public class Keyboard {
 
 <pre class="bash">
 $ java Keyboard
-enter a number: 56
-You entered: 56
+enter a number: <code>56</code>
+You entered: <code>56</code>
 </pre>
 
 <?php include('../footer.php');?>

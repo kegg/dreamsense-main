@@ -17,15 +17,15 @@ How many dogs do you own:
   Scanner class.</p>
 
 <pre class="bash">
-What is your name: Fred
-What is your age: 45
-What is your hourly wage: 8.25
-How many dogs do you own: 2
+What is your name: <code>Fred</code>
+What is your age: <code>45</code>
+What is your hourly wage: <code>8.25</code>
+How many dogs do you own: <code>2</code>
 
-Your name is Fred
-You are 45 years old
-You make 8.25 an hour
-You own 2 dogs
+Your name is <code>Fred</code>
+You are <code>45</code> years old
+You make <code>8.25</code> an hour
+You own <code>2</code> dogs
 </pre>
 
 <?php include('../footer.php');?>

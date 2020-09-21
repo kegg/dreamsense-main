@@ -25,7 +25,7 @@ $ javac HelloWorld.java
 
 <pre class="bash">
 $ java HelloWorld
-Hello World
+<code>Hello World</code>
 </pre>
 
 <?php include('../footer.php');?>

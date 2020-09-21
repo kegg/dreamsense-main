@@ -135,6 +135,10 @@ code {
 	font-weight:bold;
 }
 
+pre code {
+	color:#00ff00;
+}
+
 .green {
 	color:#006400;
 }
