@@ -80,6 +80,10 @@ td.navigation a:visited {
 	color:#ffffff;
 }
 
+td.right {
+	text-align:right;
+}
+
 hr {
 	color:#cccccc;
 }
