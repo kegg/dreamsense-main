@@ -16,6 +16,9 @@ $keyboard = "Keyboard Input";
   <tr>
     <th colspan="3">Basics of Java Programming</td>
   </tr>
+  <!--
+    Basic Programming
+  -->
   <tr>
     <td class="right"><?php echo $id; $id++;?></td>
     <td><?php echo $basics;?></td>
@@ -36,6 +39,9 @@ $keyboard = "Keyboard Input";
     <td><?php echo $basics;?></td>
     <td><a href="/programming/comments.php">Comments</a></td>
   </tr>
+  <!--
+    keyboard input
+  -->
   <tr>
     <td class="right"><?php echo $id; $id++;?></td>
     <td><?php echo $keyboard;?></td>
@@ -45,6 +51,11 @@ $keyboard = "Keyboard Input";
     <td class="right"><?php echo $id; $id++;?></td>
     <td><?php echo $keyboard;?></td>
     <td><a href="/programming/moreInput.php">More Input</a></td>
+  </tr>
+  <tr>
+    <td class="right"><?php echo $id; $id++;?></td>
+    <td><?php echo $keyboard;?></td>
+    <td><a href="/programming/calculator.php">Silly Simple Calculator</a></td>
   </tr>
 </table>
 
