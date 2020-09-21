@@ -41,6 +41,11 @@ $keyboard = "Keyboard Input";
     <td><?php echo $keyboard;?></td>
     <td><a href="/programming/input.php">Keyboard Input</a></td>
   </tr>
+  <tr>
+    <td class="right"><?php echo $id; $id++;?></td>
+    <td><?php echo $keyboard;?></td>
+    <td><a href="/programming/moreInput.php">More Input</a></td>
+  </tr>
 </table>
 
 <?php include('footer.php');?>
