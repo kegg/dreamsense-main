@@ -69,6 +69,11 @@ $loops = "Loops";
   <tr>
     <td class="right"><?php echo $id; $id++;?></td>
     <td><?php echo $loops;?></td>
+    <td><a href="/programming/while.php">While Loop</a></td>
+  </tr>
+  <tr>
+    <td class="right"><?php echo $id; $id++;?></td>
+    <td><?php echo $loops;?></td>
     <td><a href="/programming/for.php">For Loop</a></td>
   </tr>
 </table>
