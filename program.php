@@ -80,12 +80,16 @@ $if = "If Statements";
   <!--
     If Statements
   -->
-</tr>
-<tr>
-  <td class="right"><?php echo $id; $id++;?></td>
-  <td><?php echo $if;?></td>
-  <td><a href="/programming/If.php">If</a></td>
-</tr>
+  <tr>
+    <td class="right"><?php echo $id; $id++;?></td>
+    <td><?php echo $if;?></td>
+    <td><a href="/programming/If.php">If</a></td>
+  </tr>
+  <tr>
+    <td class="right"><?php echo $id; $id++;?></td>
+    <td><?php echo $if;?></td>
+    <td><a href="/programming/Else.php">Else</a></td>
+  </tr>
 </table>
 
 <?php include('footer.php');?>
