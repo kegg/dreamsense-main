@@ -8,7 +8,7 @@ Hello World
 
 <?php
 $id = 1;
-$basics = "Programing Basics";
+$basics = "Programming Basics";
 $keyboard = "Keyboard Input";
 $loops = "Loops";
 ?>
