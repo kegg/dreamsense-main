@@ -90,6 +90,11 @@ $if = "If Statements";
     <td><?php echo $if;?></td>
     <td><a href="/programming/Else.php">Else</a></td>
   </tr>
+  <tr>
+    <td class="right"><?php echo $id; $id++;?></td>
+    <td><?php echo $if;?></td>
+    <td><a href="/programming/ElseIf.php">Else If</a></td>
+  </tr>
 </table>
 
 <?php include('footer.php');?>
