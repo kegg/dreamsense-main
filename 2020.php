@@ -4,6 +4,12 @@
 
 <h2>September</h2>
 
+<h3>September 22, 2020</h3>
+
+<p>Another day is here. Not much to say about any of it. Just that it's another day.</p>
+<p>It would be nice to be able to simply take a day and do nothing, but there's so
+  much to be done. You just can't take a day like that anymore.</p>
+
 <h3>September 19, 2020</h3>
 
 <p>After basically being on lockdown for a good solid year, you learn to appreciate
