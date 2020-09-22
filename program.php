@@ -11,6 +11,7 @@ $id = 1;
 $basics = "Programming Basics";
 $keyboard = "Keyboard Input";
 $loops = "Loops";
+$if = "If Statements";
 ?>
 
 <table style="width:100%;font-size:14pt;border:1px solid #000">
@@ -76,6 +77,15 @@ $loops = "Loops";
     <td><?php echo $loops;?></td>
     <td><a href="/programming/for.php">For Loop</a></td>
   </tr>
+  <!--
+    If Statements
+  -->
+</tr>
+<tr>
+  <td class="right"><?php echo $id; $id++;?></td>
+  <td><?php echo $if;?></td>
+  <td><a href="/programming/If.php">If</a></td>
+</tr>
 </table>
 
 <?php include('footer.php');?>
