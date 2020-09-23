@@ -3,7 +3,7 @@
 <?php $footer="footer/program.php";?>
 
 <pre class="bash">
-Hello World
+<code>Hello World</code>
 </pre>
 
 <?php
