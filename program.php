@@ -77,6 +77,11 @@ $if = "If Statements";
     <td><?php echo $loops;?></td>
     <td><a href="/programming/for.php">For Loop</a></td>
   </tr>
+  <tr>
+    <td class="right"><?php echo $id; $id++;?></td>
+    <td><?php echo $loops;?></td>
+    <td><a href="/programming/Collatz.php">Collatz conjecture</a></td>
+  </tr>
   <!--
     If Statements
   -->
