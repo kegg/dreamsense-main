@@ -53,6 +53,7 @@ public class Collatz {
 <p>Entering 27 in this class will produce the following:</p>
 
 <pre class="bash">
+$ java Collatz <code>27</code>
 27    82    41    124   62    31    94    47    142   71
 214   107   322   161   484   242   121   364   182   91
 274   137   412   206   103   310   155   466   233   700
