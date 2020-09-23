@@ -41,6 +41,11 @@ $if = "If Statements";
     <td><?php echo $basics;?></td>
     <td><a href="/programming/comments.php">Comments</a></td>
   </tr>
+  <tr>
+    <td class="right"><?php echo $id; $id++;?></td>
+    <td><?php echo $basics;?></td>
+    <td><a href="/programming/OddEven.php">Odd Or Even</a></td>
+  </tr>
   <!--
     keyboard input
   -->
