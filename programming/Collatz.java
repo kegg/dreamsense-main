@@ -19,7 +19,7 @@ public class Collatz {
 
       attempts++;
     }
-    System.out.format("This attempt took %d attempts%n", attempts);
+    System.out.format("This attempt took %d tries%n", attempts);
   }
 
   public static OddOrEven oddOrEven(int number) {

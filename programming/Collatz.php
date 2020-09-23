@@ -31,7 +31,7 @@ public class Collatz {
 
       attempts++;
     }
-    System.out.format("This attempt took %d attempts%n", attempts);
+    System.out.format("This attempt took %d tries%n", attempts);
   }
 
   public static OddOrEven oddOrEven(int number) {
@@ -65,7 +65,7 @@ public class Collatz {
 244   122   61    184   92    46    23    70    35    106
 53    160   80    40    20    10    5     16    8     4
 2     1
-This attempt took 111 attempts
+This attempt took 111 tries
 </pre>
 
 <p><a href="Collatz.java" target="_blank">Source Code</a></p>
