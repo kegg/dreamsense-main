@@ -22,4 +22,14 @@ public class Array {
 }
 </pre>
 
+<p>Output:</p>
+
+<pre class="bash">
+1
+2
+3
+4
+5
+</pre>
+
 <?php include('../footer.php');?>

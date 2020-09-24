@@ -133,6 +133,12 @@ $todo = "ToDo";
     <td><a href="/programming/array.php">Array</a></td>
     <td><?php echo $program;?></td>
   </tr>
+  <tr>
+    <td class="right"><?php echo $id; $id++;?></td>
+    <td><?php echo $array;?></td>
+    <td><a href="/programming/arrayWords.php">Array from a Sentence</a></td>
+    <td><?php echo $program;?></td>
+  </tr>
 </table>
 
 <?php include('footer.php');?>
