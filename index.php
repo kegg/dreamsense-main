@@ -17,28 +17,13 @@
 			<h1>Welcome</h1>
 		<table width="100%" cellpadding="0" cellspacing="0">
 			<tr>
-				<td style="border-left:1px solid #000000;border-top:1px solid #000000;border-right:1px solid #000000;width:277px"><a href="about.php"><img src="images/aboutus.jpg" width="277" height="150" border="0"></a></td>
-				<td valign="top" rowspan="5" class="content" style="border-top:1px solid #000000;border-right:1px solid #000000;border-bottom:1px solid #000000">
+				<td style="border-left:1px solid #000000;border-top:1px solid #000000;border-right:1px solid #000000;border-bottom:1px solid #000000;width:277px">
+					<?php include("links.php");?>
+				</td>
+				<td valign="top" class="content" style="border-top:1px solid #000000;border-right:1px solid #000000;border-bottom:1px solid #000000">
 						<?php include("updates.php");?>
 				</td>
 			</tr>
-			<tr>
-				<td style="border-left:1px solid #000000;border-top:1px solid #000000;border-right:1px solid #000000;width:277px"><a href="stories.php"><img src="images/stories.jpg" width="277" height="150" border="0"></a></td>
-			</tr>
-			<tr>
-				<td style="border-left:1px solid #000000;border-bottom:1px solid #000000;border-right:1px solid #000000;width:277px"><a href="blog.php"><img src="images/blog.jpg" width="277" height="150" border="0"></a></td>
-			</tr>
-			<tr>
-				<td style="border-left:1px solid #000000;border-bottom:1px solid #000000;border-right:1px solid #000000;width:277px"><a href="poetry.php"><img src="images/poetry.jpg" width="277" height="150" border="0"></a></td>
-			</tr>
-			<tr>
-				<td style="border-left:1px solid #000000;border-bottom:1px solid #000000;border-right:1px solid #000000;width:277px"><a href="program.php"><img src="images/program.jpg" width="277" height="150" border="0"></a></td>
-			</tr>
-			<!--
-			<tr>
-				<td style="border-left:1px solid #000000;border-bottom:1px solid #000000;border-right:1px solid #000000;width:277px"><a href="https://mormon.dreamsense.com"><img src="images/religion.jpg" width="277" height="150" border="0"></a></td>
-			</tr>
-		-->
 		</table></td>
 	</tr>
 	<tr>
