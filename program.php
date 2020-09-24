@@ -12,6 +12,7 @@ $basics = "Programming Basics";
 $keyboard = "Keyboard Input";
 $loops = "Loops";
 $if = "If Statements";
+$array = "Arrays";
 
 $program = "Program";
 $todo = "ToDo";
@@ -121,6 +122,15 @@ $todo = "ToDo";
     <td class="right"><?php echo $id; $id++;?></td>
     <td><?php echo $if;?></td>
     <td><a href="/programming/ElseIf.php">Else If</a></td>
+    <td><?php echo $program;?></td>
+  </tr>
+  <!--
+    Arrays
+  -->
+  <tr>
+    <td class="right"><?php echo $id; $id++;?></td>
+    <td><?php echo $array;?></td>
+    <td><a href="/programming/array.php">Array</a></td>
     <td><?php echo $program;?></td>
   </tr>
 </table>
