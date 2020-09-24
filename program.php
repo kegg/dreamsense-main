@@ -15,7 +15,7 @@ $if = "If Statements";
 $array = "Arrays";
 
 $program = "Program";
-$todo = "ToDo";
+$todo = "To Do";
 ?>
 
 <table style="width:100%;font-size:14pt;border:1px solid #000">
