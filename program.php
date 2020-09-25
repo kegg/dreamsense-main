@@ -18,7 +18,7 @@ $program = "Program";
 $todo = "To Do";
 ?>
 
-<table id="records" style="width:100%;font-size:14pt;border:1px solid #000">
+<table id="records" cellspacing="0" cellpadding="4" style="width:100%;font-size:14pt;border:1px solid #000">
   <thead>
   <tr>
     <th colspan="4">Basics of Java Programming</td>
