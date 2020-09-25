@@ -135,7 +135,7 @@ code {
 	font-weight:bold;
 }
 
-pre code {
+pre.bash code {
 	color:#00ff00;
 }
 
