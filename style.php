@@ -142,4 +142,8 @@ pre.bash code {
 .green {
 	color:#006400;
 }
+
+table#records tbody tr:hover {
+	background-color:#d0d0d0;
+}
 </style>

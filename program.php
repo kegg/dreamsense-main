@@ -18,13 +18,16 @@ $program = "Program";
 $todo = "To Do";
 ?>
 
-<table style="width:100%;font-size:14pt;border:1px solid #000">
+<table id="records" style="width:100%;font-size:14pt;border:1px solid #000">
+  <thead>
   <tr>
     <th colspan="4">Basics of Java Programming</td>
   </tr>
+  </thead>
   <!--
     Basic Programming
   -->
+  <tbody>
   <tr>
     <td class="right"><?php echo $id; $id++;?></td>
     <td><?php echo $basics;?></td>
@@ -145,6 +148,7 @@ $todo = "To Do";
     <td><a href="/programming/arrayChars.php">Array from a String</a></td>
     <td><?php echo $program;?></td>
   </tr>
+  </tbody>
 </table>
 
 <?php include('footer.php');?>
