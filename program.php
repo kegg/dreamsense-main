@@ -154,6 +154,12 @@ $todo = "To Do";
     <td><a href="/programming/arraySort.php">Sort an Array</a></td>
     <td><?php echo $program;?></td>
   </tr>
+  <tr>
+    <td class="right"><?php echo $id; $id++;?></td>
+    <td><?php echo $array;?></td>
+    <td><a href="/programming/arrayReverseSort.php">Reverse Sort an Array</a></td>
+    <td><?php echo $program;?></td>
+  </tr>
   </tbody>
 </table>
 
