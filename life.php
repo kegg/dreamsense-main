@@ -2,6 +2,24 @@
 <?php $footer="footer/stories.php";?>
 <?php include("header.php");?>
 
+<h2>The Drink</h2>
+
+<p>He leaped towards the man, teeth grinding together. Anything more would be
+  cause for treason. But John knew that, he knew where his limits lay and knew
+  which boundaries not to cross.</p>
+
+<p>"Care to say that again?" John yelled.</p>
+
+<p>The man was shaking, quivering to the point of almost passing out.
+  "No, no I would rather not." He replied.</p>
+
+<p>"I see" John said. "In that case, care to have a drink?"</p>
+
+<p>The man couldn’t believe what he was hearing. A drink? Was John sure about
+  that? He nodded slowly. "Yes sir."</p>
+
+<p>John smiled as he poured two glasses of whiskey.</p>
+
 <h2>Truth</h2>
 
 <p>Everything becomes a realism at some point or another. No one decides what you
