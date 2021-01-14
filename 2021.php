@@ -4,6 +4,20 @@
 
 <h2>January</h2>
 
+<h3>January 13, 2021</h3>
+
+<p>Sometimes it doesn't make sense. This life that is. There
+  are somedays where you just have to wonder what's going on.
+  Not everything has to make sense, I mean if everything did
+  life wouldn't be mysterious. It would be boring I suppose.</p>
+
+<p>So here we sit with a life that's not boring. I think that's
+  a good start don't you?</p>
+
+<p>We just have to figure out why we're here. If there's a purpose
+  to any of it. That's the question that will be on the minds of people
+  long into the dead of night.</p>
+
 <h3>January 11, 2021</h3>
 
 <p>Small town newspapers tell it all. They know everybody's
