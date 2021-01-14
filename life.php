@@ -2,6 +2,25 @@
 <?php $footer="footer/stories.php";?>
 <?php include("header.php");?>
 
+<h2>Vampire</h2>
+
+<p>"I went to bed early, that's all."</p>
+
+<p>"That's all." She said "Like you expect me to believe it."</p>
+
+<p>He smiled back. "Yes I expect you to believe it, why wouldn't you?"</p>
+
+<p>The woman placed her hands on her hips. "Because you're a liar. I know for a
+fact you went back out."</p>
+
+<p>"Says who?"</p>
+
+<p>"Says me!"</p>
+
+<p>He bit his bottom lip. Did she really see everything that had taken place the
+night before? Did she see how he hovered over his prey before making the attack?
+Vampires had to be careful after all, one slip up and it's all over.</p>
+
 <h2>The Drink</h2>
 
 <p>He leaped towards the man, teeth grinding together. Anything more would be
@@ -15,7 +34,7 @@
 
 <p>"I see" John said. "In that case, care to have a drink?"</p>
 
-<p>The man couldn’t believe what he was hearing. A drink? Was John sure about
+<p>The man couldn't believe what he was hearing. A drink? Was John sure about
   that? He nodded slowly. "Yes sir."</p>
 
 <p>John smiled as he poured two glasses of whiskey.</p>
