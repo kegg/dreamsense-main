@@ -4,6 +4,13 @@
 
 <h2>January</h2>
 
+<h3>January 15, 2021</h3>
+
+<p>Another weekend is here. There's not much to be said regarding
+  the weekend. It's just another weekend now isn't it. No that wasn't
+  a question. It was more of a statement. I prefer a relaxing weekend
+  in which I don't have to do anything if I don't want to.</p>
+
 <h3>January 13, 2021</h3>
 
 <p>Sometimes it doesn't make sense. This life that is. There
