@@ -4,6 +4,10 @@
 
 <h2>January</h2>
 
+<h3>January 21, 2021</h3>
+
+<p>Somedays mistakes are made. This is the way of life.</p>
+
 <h3>January 15, 2021</h3>
 
 <p>Another weekend is here. There's not much to be said regarding
