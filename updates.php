@@ -1,4 +1,7 @@
 <h2>Updates</h2>
+<p>Friday, January 8, 2021<br/>
+  Added 2021 Blog</p>
+
 <p>Saturday, September 19, 2020<br/>
   Added Programming section.</p>
 
