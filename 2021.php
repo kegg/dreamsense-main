@@ -4,6 +4,12 @@
 
 <h2>January</h2>
 
+<h3>January 23, 2021</h3>
+
+<p>Life takes random turns from time to time. There are days that are
+  better than other days. Some of those days simply exist. While other
+  days run and hide from everything else. It can be theraputic.</p>
+
 <h3>January 21, 2021</h3>
 
 <p>Somedays mistakes are made. This is the way of life.</p>
