@@ -3,6 +3,10 @@
 <?php include('header.php');?>
 <table border="0" cellspacing="0" cellpadding="0" class="content">
 	<tr>
+		<td style="border-bottom:1px solid #000000;border-right:1px solid #000000;width:277px"><a href="trek.php"><img src="images/trek.png" width="277" height="150" border="0"></a></td>
+		<td class="content"><p>Star Trek FanFiction</p></td>
+	</tr>
+	<tr>
 		<td style="border-bottom:1px solid #000000;border-right:1px solid #000000;width:277px"><a href="unknown.php"><img src="images/unknown.jpg" width="277" height="150" border="0"></a></td>
 		<td class="content"><p>Short Stories in PDF Format (2021)</p></td>
 	</tr>

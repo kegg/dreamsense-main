@@ -8,4 +8,6 @@
 <p><a href="pdf/station.pdf" target="_blank">The Station</a> - A space station on the edge of
   known space where aliens mingle.</p>
 
+<p><a href="pdf/night.pdf" target="_blank">A Night Out</a> - An elephant has a night out.</p>
+
 <?php include("footer.php");?>

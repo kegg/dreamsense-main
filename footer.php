@@ -13,6 +13,7 @@
 	</tr>
 </table>
 <div class="center">
+	Twitter: <a href="https://twitter.com/kegg" target="_blank">@kegg</a><br>
 	<img src="/images/ds.png"/>
 </div>
 </body>

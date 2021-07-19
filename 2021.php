@@ -2,6 +2,27 @@
 <?php $footer="footer/blog.php";?>
 <?php include("header.php");?>
 
+<h2>July</h2>
+
+<h3>July 18, 2021</h3>
+
+<p>Live life. That's the topic of this post. Simply live your life.
+Don't let anyone else get in the way and tell you what's wrong with your
+life. Don't let anyone get in your way or try and tell you how to live your
+life.</p>
+
+<p>Your life is yours and that's all that matters.</p>
+
+<h3>July 12, 2021</h3>
+
+<p>Why  must this life be so difficult? I don't understand  it.
+It  would be nice if I could get a grasp on life somehow. How  do
+you  get  a grasp on life exactly? That is the question  I  would
+like answered. If I can't get an answer to that question, maybe I
+could  get an answer to a different one. I would have to come  up
+with the question in mind of course. As of now I don't know  what
+the question is I would want answered.</p>
+
 <h2>January</h2>
 
 <h3>January 23, 2021</h3>
