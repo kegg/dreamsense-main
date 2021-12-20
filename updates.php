@@ -1,5 +1,8 @@
 <h2>Updates</h2>
 
+<p>Wednesday September 22, 2021<br/>
+  Added "Genie" story.</p>
+
 <p>Monday, July 19, 2021<br/>
   Added Star Trek FanFiction</p>
 

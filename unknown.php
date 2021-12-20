@@ -2,6 +2,9 @@
 <?php $footer="footer/stories.php";?>
 <?php include("header.php");?>
 
+<p><a href="pdf/genie.pdf" target="_blank">Genie</a> - Eric finds a genie and sees what happens when
+  she begins granting wishes.</p>
+
 <p><a href="pdf/fold.pdf" target="_blank">Truth In The Fold</a> - Aliens and Humans just don't
   get along.</p>
 

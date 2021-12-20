@@ -13,6 +13,7 @@ $keyboard = "Keyboard Input";
 $loops = "Loops";
 $if = "If Statements";
 $array = "Arrays";
+$gui = "GUI";
 
 $program = "Program";
 $todo = "To Do";
@@ -103,6 +104,12 @@ $todo = "To Do";
   <tr>
     <td class="right"><?php echo $id; $id++;?></td>
     <td><?php echo $loops;?></td>
+    <td><a href="/programming/forEach.php">For Each Loop</a></td>
+    <td><?php echo $program;?></td>
+  </tr>
+  <tr>
+    <td class="right"><?php echo $id; $id++;?></td>
+    <td><?php echo $loops;?></td>
     <td><a href="/programming/Collatz.php">Collatz conjecture</a></td>
     <td><?php echo $program;?></td>
   </tr>
@@ -158,6 +165,15 @@ $todo = "To Do";
     <td class="right"><?php echo $id; $id++;?></td>
     <td><?php echo $array;?></td>
     <td><a href="/programming/arrayReverseSort.php">Reverse Sort an Array</a></td>
+    <td><?php echo $program;?></td>
+  </tr>
+  <!--
+    GUI
+  -->
+  <tr>
+    <td class="right"><?php echo $id; $id++;?></td>
+    <td><?php echo $gui;?></td>
+    <td><a href="/programming/JFrame.php">JFrame Window</a></td>
     <td><?php echo $program;?></td>
   </tr>
   </tbody>

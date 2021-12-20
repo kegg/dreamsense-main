@@ -2,7 +2,22 @@
 <?php $footer="footer/blog.php";?>
 <?php include("header.php");?>
 
+<h2>September</h2>
+
+<h3>September 20, 2021</h3>
+
+<p>It's starting to get cold out there. Fall is in the air and that's what's
+  going on.
+
+<h2>August</h2>
+
+<h3>August 18, 2021</h3>
+
 <h2>July</h2>
+
+<p>Whatever you're going through just remember that someone has been down this
+  road before. You're not the only one having this pain in your life. You can
+  and will get through it.</p>
 
 <h3>July 18, 2021</h3>
 

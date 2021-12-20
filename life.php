@@ -2,6 +2,17 @@
 <?php $footer="footer/stories.php";?>
 <?php include("header.php");?>
 
+<h2>The Window</h2>
+
+<p>JOE: I looked out the window and saw what I saw, I swear it was that.</p>
+<pL>OFFICER: You looked out this window you say?</p>
+<p>JOE: Yes.</p>
+<p>Indeed Joe had looked out a window. But it wasn't the same window the
+  officer was pointing to. No, indeed Joe had looked out a window but a different
+  window. He wasn't sure why there were two windows out there to be looked at.
+  But he knew for certain a window wasn't to be seen as truth.</p>
+<p>JOE: Alright maybe it was a different window. I'm not sure how this works you see.</p>
+
 <h2>Vampire</h2>
 
 <p>"I went to bed early, that's all."</p>
