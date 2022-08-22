@@ -21,5 +21,10 @@
 			<a href="/program.php">Programming</a></td>
 	</tr>
 	<tr>
-		<td class="main_content">
+		<td><script async src="https://cse.google.com/cse.js?cx=004657167703325411224:xx_mtf2e2dk">
+</script>
+<div class="gcse-search"></div>
+	</tr>
+	<tr>
+		<td class="main_content" style="border-top:1px solid #000">
 			<h1><?php echo $title;?></h1>
